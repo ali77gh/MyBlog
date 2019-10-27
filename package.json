@@ -1,0 +1,28 @@
+{
+  "name": "alisblog.ir",
+  "version": "1.0.0",
+  "description": "ali ghahremani personal website",
+  "main": "app.js",
+  "dependencies": {
+    "better-sqlite3": "^5.4.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ali77gh/MyBlog.git"
+  },
+  "keywords": [
+    "website"
+  ],
+  "author": "ali ghahremani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ali77gh/MyBlog/issues"
+  },
+  "homepage": "https://github.com/ali77gh/MyBlog#readme"
+}
